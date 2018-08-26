@@ -35,7 +35,7 @@ _This web application allows two players to play a game of Pig Dice._
 
 
 # link to live page
-
+https://csi254.github.io/pig-game/
 
 
 ## Technologies Used
