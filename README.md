@@ -42,7 +42,7 @@ https://csi254.github.io/pig-game/
 
 * _HTML_
 * _CSS_
-* _Bootstrap_
+* _ionicframework_
 * _JavaScript_ 
 * _jQuery_
 
